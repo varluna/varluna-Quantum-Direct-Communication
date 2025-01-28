@@ -1,4 +1,4 @@
-#this project I developed during the Tuwaiq Academy Bootcamp with my team! 🚀#
+**this project I developed during the Tuwaiq Academy Bootcamp with my team! 🚀
 
 In today’s world, securely transferring sensitive data across various sectors is more critical than ever. While traditional encryption methods using keys are effective, they remain vulnerable to attackers and the growing threat of quantum computing advancements.
 
